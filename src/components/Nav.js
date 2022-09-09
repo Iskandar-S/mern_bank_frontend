@@ -5,7 +5,7 @@ function Nav() {
 		<nav className="px-4 py-2 navbar navbar-expand-lg navbar-dark bg-dark">
 			<div className="container-fluid">
 				<a className="navbar-brand" href="/main">
-					Bank
+					MERN Bank
 				</a>
 				<button
 					className="navbar-toggler"
