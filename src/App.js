@@ -6,10 +6,10 @@ import {
 import './App.css';
 import Nav from './components/Nav';
 import About from './pages/About/About';
-import Account from './pages/Account';
-import CreateForm from './pages/CreateForm';
-import EditForm from './pages/EditForm';
-import Main from './pages/Main';
+import Account from './pages/Account/Account';
+import CreateForm from './pages/CreateForm/CreateForm';
+import EditForm from './pages/EditForm/EditForm';
+import Main from './pages/Main/Main';
 
 // for future development
 // import Login from './components/progress/Login';
