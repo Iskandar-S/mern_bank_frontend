@@ -1,7 +1,7 @@
 # The Full Stack MERN App - Frontend
 ***
 ## About
-This Full Stack MERN App is part of Per Scholas final project. This repo is for frontend part of the app
+This Full Stack MERN App is part of Per Scholas final project. This repo is for the frontend part of the app. Check out backend repo for this app [here](https://github.com/Iskandar-S/mern_bank_backend).
 ***
 ## Technical Requirements
 
@@ -27,4 +27,5 @@ Nothing. Just go [here](https://mern-bank-frontend.herokuapp.com/main).
 - React
 - Bootstrap
 
-## Deployed in Heroku
+## Deployed in [Heroku](https://mern-bank-frontend.herokuapp.com/main).
+- Backend deployment is [here](https://mern-bank-backend.herokuapp.com/api/accounts)
