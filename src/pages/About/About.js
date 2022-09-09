@@ -55,8 +55,7 @@ const About = () => {
 					</ul>
 					<li>
 						<strong>Be deployed online</strong> and accessible to the
-						public via
-						<strong>Heroku</strong>.{' '}
+						public via <strong>Heroku</strong>.{' '}
 						<i className="twa twa-check-mark-button"></i>
 					</li>
 					<li>
@@ -76,8 +75,7 @@ const About = () => {
 					<ul>
 						<li>
 							Have a <strong>link to your hosted working app</strong>{' '}
-							in the
-							<code>README.md</code> file in your github repo.{' '}
+							in the <code>README.md</code> file in your github repo.{' '}
 							<i className="twa twa-check-mark-button"></i>
 						</li>
 					</ul>
