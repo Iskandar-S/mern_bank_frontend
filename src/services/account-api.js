@@ -1,5 +1,5 @@
 import axios from 'axios';
-const baseUrl = `http://localhost:3001/api/accounts`;
+const baseUrl = `https://mern-bank-backend.herokuapp.com/api/accounts`;
 
 export async function getAccounts() {
 	try {
